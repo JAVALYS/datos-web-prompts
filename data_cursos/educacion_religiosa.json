@@ -1,0 +1,93 @@
+{
+  "id": "educacion_religiosa",
+  "area": "Educación Religiosa",
+  "competencias": [
+    {
+      "id": "construye_identidad_religiosa",
+      "nombre": "Construye su identidad como persona humana, amada por Dios, digna, libre y trascendente, comprendiendo la doctrina de su propia religión, abierto al diálogo con las que le son cercanas",
+      "descripcion": "El estudiante descubre y asume que existe un Ser y una Verdad trascendentes, que le dan una identidad y una dignidad humanas y toma conciencia de que es hijo de Dios, creado a su imagen y semejanza, reconociendo su acción providente en la propia vida a través de la búsqueda reflexiva del sentido de la existencia.",
+      "capacidades": [
+        "Conoce a Dios y asume su identidad religiosa y espiritual como persona digna, libre y trascendente.",
+        "Cultiva y valora las manifestaciones religiosas de su entorno argumentando su fe de manera comprensible y respetuosa."
+      ],
+      "desempenos": {
+        "grado_1": [
+          "Explica que Dios se revela en la Historia de la Salvación descrita en la Biblia comprendiendo que la dignidad de la persona humana reside en el conocimiento y amor a Dios, a sí mismo, a los demás y a la naturaleza.",
+          "Analiza en las enseñanzas de Jesucristo el cumplimiento de la promesa de salvación y la plenitud de la revelación.",
+          "Promueve la práctica de acciones que fomentan el respeto por la vida humana y el bien común.",
+          "Acoge expresiones de fe propias de su identidad cristiana y católica presentes en su comunidad y respetando las diversas creencias religiosas.",
+          "Toma conciencia de las necesidades del prójimo para actuar de acuerdo con las enseñanzas del Evangelio y de la Iglesia."
+        ],
+        "grado_2": [
+          "Argumenta que Dios se revela en la Historia de la Salvación descrita en la Biblia y en su historia personal comprendiendo que la dignidad de la persona humana reside en el conocimiento y amor a Dios, a sí mismo, a los demás y a la naturaleza.",
+          "Comprende que Jesucristo es la plenitud de la revelación y el cumplimiento de las promesas de salvación, a la luz del Evangelio.",
+          "Propone alternativas de solución a los diferentes problemas y necesidades que afectan la vida y el bien común.",
+          "Expresa su fe participando en las celebraciones propias de su comunidad con una actitud de diálogo y respeto mutuo entre las diversas creencias religiosas.",
+          "Actúa de acuerdo con las enseñanzas del Evangelio y de la Iglesia ante las necesidades del prójimo y de su entorno."
+        ],
+        "grado_3": [
+          "Analiza la intervención de Dios en el Plan de Salvación y en la historia de la Iglesia y su presencia en la creación con lo cual encuentra sentido a su vida y a la de la humanidad.",
+          "Reflexiona sobre el mensaje de Jesucristo y las enseñanzas de la Iglesia para un cambio de vida personal.",
+          "Acepta a Jesucristo como Redentor y modelo de hombre para vivir coherentemente con los principios cristianos.",
+          "Da razones de su fe con gestos y acciones que demuestran una convivencia crítica con la cultura, la ciencia y otras manifestaciones religiosas y espirituales.",
+          "Analiza la realidad de su entorno a la luz del mensaje del Evangelio que lo lleve a plantear alternativas de cambio coherentes con los valores propios de la tradición religiosa."
+        ],
+        "grado_4": [
+          "Argumenta la acción de Dios en la historia y en la vida de la Iglesia y de la humanidad confrontando hechos y acontecimientos presentes en su entorno que permitan su participación en la misión de la Iglesia.",
+          "Confronta el mensaje de Jesucristo y las enseñanzas de la Iglesia con sus vivencias personales y comunitarias demostrando una actitud de permanente conversión.",
+          "Acoge a Jesucristo como Redentor y modelo de hombre que enseña a vivir bajo la acción del Espíritu Santo, para expresar en su vida diaria los principios y las enseñanzas de la Iglesia.",
+          "Explica, con argumentos coherentes, su fe en relación armónica entre cultura y ciencia, y valorando las diversas manifestaciones religiosas más cercanas a su entorno.",
+          "Interpreta la realidad de su entorno local y nacional a la luz del mensaje del Evangelio y la Tradición de la Iglesia."
+        ],
+        "grado_5": [
+          "Fundamenta la presencia de Dios en la historia y vida de la Iglesia y de la humanidad para actuar con responsabilidad frente a todo lo creado.",
+          "Interioriza el mensaje de Jesucristo y las enseñanzas de la Iglesia con sus vivencias personales y comunitarias, actuando en coherencia con su fe.",
+          "Asume en su vida a Jesucristo como Redentor y modelo de hombre que enseña a vivir bajo la acción del Espíritu Santo en la misión evangelizadora.",
+          "Demuestra con convicción su fe en diálogo crítico entre cultura y ciencia frente a otras manifestaciones religiosas y espirituales.",
+          "Propone alternativas de solución a los problemas locales, nacionales y mundiales a la luz del mensaje del Evangelio y la Tradición de la Iglesia."
+        ]
+      }
+    },
+    {
+      "id": "asume_experiencia_religiosa",
+      "nombre": "Asume la experiencia del encuentro personal y comunitario con Dios en su proyecto de vida en coherencia con su creencia religiosa",
+      "descripcion": "El estudiante busca a Dios de tal modo que exprese la dimensión espiritual y religiosa de manera testimonial en su vida cotidiana para consolidar su proyecto de vida significativo. Asume a Jesucristo como modelo para el fortalecimiento de su propia fe.",
+      "capacidades": [
+        "Transforma su entorno desde el encuentro personal y comunitario con Dios y desde la fe que profesa.",
+        "Actúa coherentemente en razón de su fe según los principios de su conciencia moral en situaciones concretas de la vida."
+      ],
+      "desempenos": {
+        "grado_1": [
+          "Plantea un proyecto de vida personal y comunitario de acuerdo al plan de Dios.",
+          "Reconoce su dimensión espiritual y religiosa que le permita cooperar en la transformación personal, de su familia y de su escuela a la luz del Evangelio.",
+          "Cultiva el encuentro personal y comunitario con Dios valorando momentos de oración y celebraciones propias de su Iglesia y comunidad de fe.",
+          "Actúa de manera coherente con la fe según las enseñanzas de Jesucristo para la transformación de la sociedad."
+        ],
+        "grado_2": [
+          "Expresa en su proyecto de vida personal y comunitaria coherencia entre lo que cree, dice y hace a la luz del mensaje bíblico.",
+          "Comprende su dimensión espiritual y religiosa que le permita cooperar en la transformación personal, de su familia, de su escuela y de su comunidad a la luz del Evangelio.",
+          "Interioriza el encuentro personal y comunitario con Dios valorando momentos de silencio, oración y celebraciones propias de su Iglesia y comunidad de fe.",
+          "Asume su rol protagónico en la transformación de la sociedad según las enseñanzas de Jesucristo y de la Iglesia."
+        ],
+        "grado_3": [
+          "Expresa en su proyecto de vida personal coherencia entre lo que cree, dice y hace a la luz del mensaje bíblico y los documentos del Magisterio de la Iglesia.",
+          "Cultiva su dimensión religiosa, espiritual y trascendente que le permita cooperar en la transformación de sí mismo y de su entorno a la luz del Evangelio.",
+          "Discierne los acontecimientos de la vida desde el encuentro personal con Dios en su familia y en su escuela, con acciones orientadas a la construcción de una comunidad de fe, inspirada en Jesucristo.",
+          "Acepta su rol en la transformación de la sociedad a partir de las enseñanzas de Jesucristo."
+        ],
+        "grado_4": [
+          "Expresa en su proyecto de vida personal y comunitario coherencia entre lo que cree, dice y hace, contrastándolo con la realidad a la luz del mensaje bíblico y los documentos del Magisterio de la Iglesia.",
+          "Cultiva su dimensión religiosa, espiritual y trascendente a partir de la celebración de su fe, que le permita cooperar en la transformación de sí mismo y de su entorno a la luz del Evangelio buscando soluciones a los desafíos actuales.",
+          "Propone situaciones de encuentro personal con Dios, en su familia, en su escuela y en su comunidad desde un discernimiento espiritual, con acciones orientadas a la construcción de una comunidad de fe guiada por las enseñanzas de Jesucristo y de la Iglesia.",
+          "Ejerce, desde la ética y la moral cristiana, su rol protagónico en la transformación de la sociedad a partir de las enseñanzas de Jesucristo y de la Iglesia."
+        ],
+        "grado_5": [
+          "Demuestra coherencia entre lo que cree, dice y hace en su proyecto de vida personal y comunitario, respondiendo a los desafíos de la realidad a la luz del mensaje bíblico y los documentos del Magisterio de la Iglesia.",
+          "Vive su dimensión religiosa, espiritual y trascendente a partir de la celebración comunitaria de su fe, que le permita cooperar en la transformación de sí mismo y de su entorno a la luz del Evangelio y de las enseñanzas de la Iglesia proponiendo soluciones a los desafíos actuales.",
+          "Promueve el encuentro personal y comunitario con Dios en diversos contextos desde un discernimiento espiritual, con acciones orientadas a la construcción de una comunidad de fe guiada por las enseñanzas de Jesucristo y de la Iglesia.",
+          "Asume su rol protagónico comprometiéndose ética y moralmente en la transformación de una sociedad pacífica, justa, fraterna y solidaria, a partir de las enseñanzas de Jesucristo y de la Iglesia."
+        ]
+      }
+    }
+  ]
+}

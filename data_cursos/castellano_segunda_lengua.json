@@ -1,0 +1,217 @@
+{
+  "id": "castellano_segunda_lengua",
+  "area": "Castellano como Segunda Lengua",
+  "competencias": [
+    {
+      "id": "comunica_oralmente_castellano",
+      "nombre": "Se comunica oralmente en castellano como segunda lengua",
+      "descripcion": "Se define como una interacción dinámica entre uno o más interlocutores para expresar y comprender ideas y emociones. Supone un proceso activo de construcción del sentido de los diversos tipos de textos orales.",
+      "capacidades": [
+        "Obtiene información del texto oral.",
+        "Infiere e interpreta información del texto oral.",
+        "Adecúa, organiza y desarrolla las ideas de forma coherente y cohesionada.",
+        "Utiliza recursos no verbales y paraverbales de forma estratégica.",
+        "Interactúa estratégicamente con distintos interlocutores.",
+        "Reflexiona y evalúa la forma, el contenido y contexto del texto oral."
+      ],
+      "desempenos": {
+        "grado_1": [
+          "Recupera información explícita de textos orales tanto de los que usan registro formal como informal, seleccionando datos específicos del texto que escucha. Integra información dicha por distintos interlocutores.",
+          "Deduce relaciones lógicas entre las ideas del texto oral, como las secuencias temporales, y las relaciones de semejanza y diferencia y de causa-efecto.",
+          "Señala las características implícitas de personas, personajes, animales, objetos, lugares, así como el significado de las palabras a partir de información explícita en el texto oral.",
+          "Explica el tema y propósito comunicativo del texto oral a partir de su contexto sociocultural distinguiendo lo relevante de lo complementario.",
+          "Opina sobre el contenido, el propósito comunicativo del texto oral y las intenciones de los interlocutores a partir de su experiencia y los contextos socioculturales de los interlocutores.",
+          "Justifica su posición sobre lo que escucha, su experiencia y los contextos socioculturales en que se desenvuelve.",
+          "Adecúa el texto oral a la situación comunicativa considerando a sus interlocutores y el propósito. Usa un registro formal o informal de acuerdo con la situación.",
+          "Expresa ideas en torno a un tema y se mantiene en este.",
+          "Ordena las ideas relacionándolas mediante diversos recursos cohesivos, como conectores, referentes, entre otros.",
+          "Incorpora un vocabulario variado.",
+          "Incluye en su producción oral diversas fuentes de información, tanto orales como escritas.",
+          "Emplea estratégicamente recursos no verbales (gestos y movimientos corporales) y paraverbales (entonación) para enfatizar información en diversos contextos socioculturales.",
+          "Participa en intercambios orales con hablantes nativos de castellano respetando sus puntos de vista y necesidades, los turnos de conversación, y agregando información pertinente y relevante al tema."
+        ],
+        "grado_2": [
+          "Recupera información explícita de textos orales tanto de los que usan registro formal como informal, seleccionando datos específicos del texto que escucha. Integra información dicha por distintos interlocutores.",
+          "Deduce relaciones lógicas entre las ideas del texto oral, como las secuencias temporales, las relaciones de semejanza y diferencia y de causa-efecto, entre otras.",
+          "Señala las características implícitas de personas, personajes, animales, objetos, lugares, así como el significado de las palabras a partir de información explícita en el texto oral.",
+          "Explica el tema y el propósito comunicativo del texto oral a partir de su contexto sociocultural distinguiendo lo relevante de lo complementario.",
+          "Opina sobre el contenido, el propósito comunicativo del texto oral y las intenciones de los interlocutores a partir de su experiencia y los contextos socioculturales de los interlocutores.",
+          "Justifica su posición sobre lo que escucha, su experiencia y los contextos socioculturales en que se desenvuelve.",
+          "Adecúa el texto oral a la situación comunicativa considerando a sus interlocutores y el propósito. Usa un registro formal o informal de acuerdo con la situación.",
+          "Expresa ideas en torno a un tema y se mantiene en este.",
+          "Ordena las ideas relacionándolas mediante diversos recursos cohesivos, como conectores, referentes y marcadores textuales.",
+          "Incorpora un vocabulario variado.",
+          "Incluye en su producción oral diversas fuentes de información, tanto orales como escritas.",
+          "Emplea estratégicamente recursos no verbales (gestos y movimientos corporales) y paraverbales (entonación) para enfatizar o matizar información en diversos contextos socioculturales.",
+          "Participa en intercambios orales con hablantes nativos de castellano respetando sus puntos de vista y necesidades, los turnos de conversación, y agregando información pertinente y relevante al tema."
+        ],
+        "grado_3": [
+          "Recupera información explícita de textos orales seleccionando datos específicos del texto que escucha. Integra información dicha por distintos interlocutores.",
+          "Deduce relaciones lógicas entre las ideas del texto oral, como las secuencias temporales, las relaciones de semejanza y diferencia y de causa-efecto, entre otras.",
+          "Señala las características implícitas de personas, personajes, animales, objetos, lugares, así como el significado de las palabras a partir de información explícita en el texto oral.",
+          "Deduce información implícita en el texto al relacionar información explícita y sus saberes de su contexto sociocultural.",
+          "Explica el tema y el propósito comunicativo del texto oral a partir de su contexto sociocultural distinguiendo lo relevante de lo complementario y sintetizando la información.",
+          "Opina sobre el contenido, el propósito comunicativo del texto oral y las intenciones de los interlocutores a partir de su experiencia y los contextos socioculturales de los interlocutores.",
+          "Justifica su posición sobre lo que escucha, su experiencia y los contextos socioculturales en que se desenvuelve.",
+          "Determina si es confiable la información proporcionada considerando los recursos no verbales (gestos y expresión corporal) y paraverbales (ritmo, entonación, volumen de voz, pausas).",
+          "Evalúa la adecuación del texto a la situación comunicativa a partir de su experiencia, de la relación con otros textos y de los contextos socioculturales.",
+          "Adecúa el texto oral a la situación comunicativa considerando a sus interlocutores y el propósito. Mantiene un registro formal o informal de acuerdo con la situación.",
+          "Expresa ideas manteniéndose dentro del tema.",
+          "Ordena y jerarquiza las ideas relacionándolas mediante diversos recursos cohesivos, como conectores, referentes y recursos textuales.",
+          "Incorpora un vocabulario variado.",
+          "Incluye en su producción oral diversas fuentes de información, tanto orales como escritas.",
+          "Emplea estratégicamente recursos no verbales (gestos y movimientos corporales) y paraverbales (entonación) para mantener la atención del interlocutor en diversos contextos socioculturales.",
+          "Participa en intercambios orales con diversos interlocutores en debates y conversaciones aportando información relevante y oportuna, las cuales son desarrolladas en el texto oral.",
+          "Respeta los puntos de vista y las necesidades de su interlocutor. Respeta los turnos de la conversación."
+        ],
+        "grado_4": [
+          "Recupera información explícita de textos orales seleccionando datos específicos del texto que escucha. Integra información dicha por distintos interlocutores.",
+          "Deduce relaciones lógicas entre las ideas del texto oral, como las secuencias temporales, las relaciones de semejanza y diferencia y de causa-efecto, entre otras.",
+          "Señala las características implícitas de personas, personajes, animales, objetos, lugares, así como el significado de las palabras a partir de información explícita en el texto oral.",
+          "Deduce información implícita en el texto al relacionar información explícita y sus saberes de su contexto sociocultural.",
+          "Explica el tema y el propósito comunicativo del texto oral a partir de su contexto sociocultural distinguiendo lo relevante de lo complementario y sintetizando la información.",
+          "Opina sobre el contenido, el propósito comunicativo del texto oral y las intenciones de los interlocutores a partir de su experiencia y los contextos socioculturales de los interlocutores.",
+          "Justifica su posición sobre lo que escucha, su experiencia y los contextos socioculturales en que se desenvuelve.",
+          "Determina si es confiable la información proporcionada considerando los recursos no verbales (gestos y expresión corporal) y paraverbales (ritmo, entonación, volumen de voz, pausas).",
+          "Evalúa la adecuación del texto a la situación comunicativa a partir de su experiencia, de la relación con otros textos y de los contextos socioculturales.",
+          "Adecúa el texto oral a la situación comunicativa considerando a sus interlocutores, el propósito y las características del género discursivo. Mantiene un registro formal o informal de acuerdo con la situación.",
+          "Expresa ideas manteniéndose dentro del tema.",
+          "Ordena y jerarquiza las ideas relacionándolas mediante diversos recursos cohesivos, como conectores, referentes y recursos textuales.",
+          "Incorpora un vocabulario variado y especializado.",
+          "Incluye en su producción oral diversas fuentes de información, tanto orales como escritas.",
+          "Emplea estratégicamente recursos no verbales (gestos y movimientos corporales) y paraverbales (entonación) para mantener la atención del interlocutor en diversos contextos socioculturales.",
+          "Participa en intercambios orales con diversos interlocutores en debates y conversaciones aportando información relevante y oportuna, las cuales son desarrolladas en el texto oral.",
+          "Respeta los puntos de vista y las necesidades de su interlocutor. Respeta los turnos de la conversación para presentar oportunamente su posición."
+        ],
+        "grado_5": [
+          "Recupera información explícita de textos orales seleccionando datos específicos del texto que escucha. Integra información dicha por distintos interlocutores.",
+          "Deduce relaciones lógicas entre las ideas del texto oral, como las secuencias temporales, las relaciones de semejanza y diferencia y de causa-efecto, entre otras.",
+          "Señala las características implícitas de personas, personajes, animales, objetos, lugares, así como el significado de las palabras a partir de información explícita en el texto oral.",
+          "Deduce información implícita en el texto al relacionar información explícita y sus saberes de su contexto sociocultural.",
+          "Explica el tema y el propósito comunicativo del texto oral a partir de su contexto sociocultural distinguiendo lo relevante de lo complementario y sintetizando la información.",
+          "Opina sobre el contenido, el propósito comunicativo del texto oral y las intenciones de los interlocutores a partir de su experiencia y los contextos socioculturales de los interlocutores.",
+          "Justifica su posición sobre las relaciones de poder y las ideologías presentes en la interacción o en los textos que escucha.",
+          "Determina si es confiable la información proporcionada considerando los recursos no verbales (gestos y expresión corporal) y paraverbales (ritmo, entonación, volumen de voz, pausas).",
+          "Evalúa la adecuación del texto a la situación comunicativa a partir de su experiencia, de la relación con otros textos y de los contextos socioculturales, para asumir y justificar una posición frente a ideologías y relaciones de poder presentes en el texto.",
+          "Adecúa el texto oral a la situación comunicativa considerando a sus interlocutores, el propósito y las características del género discursivo. Mantiene un registro formal o informal de acuerdo con la situación.",
+          "Expresa ideas manteniéndose dentro del tema.",
+          "Ordena y jerarquiza las ideas relacionándolas mediante diversos recursos cohesivos como conectores, referentes y recursos textuales.",
+          "Incorpora un vocabulario especializado.",
+          "Incluye en su producción oral diversas fuentes de información, tanto orales como escritas.",
+          "Emplea estratégicamente recursos no verbales (gestos y movimientos corporales) y paraverbales (entonación) para mantener la atención del interlocutor en diversos contextos socioculturales.",
+          "Participa en intercambios orales con diversos interlocutores en debates y conversaciones aportando información relevante y oportuna, las cuales son desarrolladas en el texto oral.",
+          "Respeta los puntos de vista y las necesidades de su interlocutor.",
+          "Respeta los turnos de la conversación para contrargumentar la posición de sus interlocutores."
+        ]
+      }
+    },
+    {
+      "id": "lee_textos_castellano",
+      "nombre": "Lee diversos tipos de textos escritos en castellano como segunda lengua",
+      "descripcion": "Esta competencia se define como una interacción dinámica entre el lector, el texto y los contextos socioculturales que enmarcan la lectura. Supone un proceso activo de construcción del sentido de los diversos tipos de textos que lee.",
+      "capacidades": [
+        "Obtiene información del texto escrito.",
+        "Infiere e interpreta información del texto escrito.",
+        "Reflexiona y evalúa la forma, el contenido y contexto del texto escrito."
+      ],
+      "desempenos": {
+        "grado_1": [
+          "Identifica información relevante de textos complejos con vocabulario variado. Ejemplo: textos con expresiones de sentido figurado.",
+          "Integra información explícita ubicada en distintas partes del texto.",
+          "Deduce información en textos complejos (por ejemplo, en textos continuos y discontinuos) y temas de diversos campos del saber, en los que predomina el vocabulario variado.",
+          "Explica el tema y el propósito comunicativo relacionando información del texto con sus saberes de su contexto sociocultural.",
+          "Opina sobre ideas, hechos y personajes, y los relaciona con su contexto sociocultural.",
+          "Explica la intención del autor considerando las características de los tipos textuales y la estructura del texto."
+        ],
+        "grado_2": [
+          "Identifica información relevante de textos complejos con vocabulario variado. Ejemplo: textos con expresiones de sentido figurado.",
+          "Integra información explícita ubicada en distintas partes del texto.",
+          "Deduce información en textos complejos (por ejemplo, en textos continuos y discontinuos) y temas de diversos campos del saber, en los que predomina el vocabulario variado.",
+          "Explica el tema y el propósito comunicativo relacionando información del texto con sus saberes de su contexto sociocultural.",
+          "Opina sobre ideas, hechos y personajes, y los relaciona y contrasta con su contexto sociocultural.",
+          "Explica la intención del autor considerando las características de los tipos textuales, la estructura del texto y el género usado."
+        ],
+        "grado_3": [
+          "Identifica información relevante de textos complejos con vocabulario variado. Ejemplo: textos que contengan ambigüedades, humor e ironía, con expresiones de sentido figurado.",
+          "Integra información explícita ubicada en distintas partes del texto.",
+          "Deduce información en textos complejos y temas de diversos campos del saber, en los que predomina el vocabulario variado y especializado.",
+          "Explica el tema y el propósito comunicativo relacionando información del texto con sus saberes de su contexto sociocultural.",
+          "Opina sobre ideas, hechos y personajes argumentando su posición respecto del texto, e identificando el contexto social e histórico donde se ha producido.",
+          "Explica los diferentes puntos de vista, estereotipos y sesgos de diversos tipos de texto al contrastarlos.",
+          "Explica la intención del autor considerando el tipo de texto, el género discursivo y las estrategias discursivas empleadas en el texto."
+        ],
+        "grado_4": [
+          "Identifica información relevante de textos complejos con vocabulario variado y especializado. Ejemplo: textos que contengan ambigüedades, humor e ironía.",
+          "Integra información explícita ubicada en distintas partes del texto.",
+          "Deduce información en textos complejos y temas de diversos campos del saber, en los que predomina el vocabulario variado y especializado.",
+          "Explica el tema y el propósito comunicativo relacionando información del texto con sus saberes de su contexto sociocultural y contrastando la información con otras fuentes de información escritas, a fin de presentar su propia posición.",
+          "Opina sobre ideas, hechos y personajes argumentando su posición respecto del texto, e identificando el contexto social e histórico donde se ha producido.",
+          "Explica los diferentes puntos de vista, estereotipos y sesgos de diversos tipos de texto al contrastarlos.",
+          "Explica la intención del autor considerando el tipo de texto, el género discursivo y las estrategias discursivas empleadas en el texto."
+        ],
+        "grado_5": [
+          "Identifica información relevante de textos complejos con vocabulario variado y especializado (por ejemplo, textos que contengan ambigüedades, humor e ironía).",
+          "Integra información explícita ubicada en distintas partes del texto.",
+          "Deduce información en textos complejos y temas de diversos campos del saber, en los que predomina el vocabulario variado y especializado.",
+          "Explica el tema y el propósito comunicativo relacionando información del texto con sus saberes de su contexto sociocultural y contrastando la información con otras fuentes de información escritas, a fin de presentar su propia posición.",
+          "Opina sobre ideas, hechos y personajes argumentando su posición respecto del texto, e identificando el contexto social e histórico donde se ha producido.",
+          "Explica los diferentes puntos de vista, estereotipos y sesgos de diversos tipos de texto al contrastarlos.",
+          "Explica la intención del autor considerando el tipo de texto, el género discursivo y las estrategias discursivas empleadas en el texto."
+        ]
+      }
+    },
+    {
+      "id": "escribe_textos_castellano",
+      "nombre": "Escribe diversos tipos de textos en castellano como segunda lengua",
+      "descripcion": "Esta competencia se define como el uso del lenguaje escrito para construir sentidos en el texto y comunicarlos a otros. Se trata de un proceso reflexivo porque supone la adecuación y organización de los textos considerando los contextos y el propósito comunicativo.",
+      "capacidades": [
+        "Adecúa el texto a la situación comunicativa.",
+        "Organiza y desarrolla las ideas de forma coherente y cohesionada.",
+        "Utiliza convenciones del lenguaje escrito de forma pertinente.",
+        "Reflexiona y evalúa la forma, el contenido y contexto del texto escrito."
+      ],
+      "desempenos": {
+        "grado_1": [
+          "Adecúa su texto al destinatario, el registro formal e informal, y el propósito comunicativo sobre temas variados considerando diversas fuentes de información, complementarias a la idea que se desea defender en el texto, o divergentes, es decir, contrarias a la idea que se debe defender.",
+          "Escribe textos en torno a un tema. Ordena las ideas mediante el uso de diferentes conectores y referentes gramaticales.",
+          "Organiza su texto en párrafos en torno a diversos temas y presenta eventualmente alguna digresión.",
+          "Utiliza diferentes recursos ortográficos, expresiones formulaicas y vocabulario variado para que su texto sea claro.",
+          "Evalúa si el texto que escribe se adecúa, en lo que respecta tanto a su contenido como a su forma, a la situación comunicativa.",
+          "Evalúa el efecto de su texto en los lectores. Compara su texto producido con otros para ver la eficacia de los recursos empleados en cada uno de los textos."
+        ],
+        "grado_2": [
+          "Adecúa su texto al destinatario, el registro formal e informal, y el propósito comunicativo sobre temas variados considerando diversas fuentes de información, complementarias a la idea que se desea defender en el texto, o divergentes, es decir, contrarias a la idea que se debe defender.",
+          "Escribe textos en torno a un tema. Ordena las ideas mediante el uso variado de conectores y referentes gramaticales.",
+          "Organiza su texto en párrafos en torno a diversos temas.",
+          "Utiliza diferentes recursos ortográficos, expresiones formulaicas, y vocabulario variado y especializado para que su texto sea claro.",
+          "Evalúa si el texto que escribe se adecúa, en lo que respecta tanto a su contenido como a su organización, a la situación comunicativa.",
+          "Evalúa el efecto de su texto en los lectores. Compara su texto producido con otros para ver la eficacia de los recursos empleados en cada uno de los textos."
+        ],
+        "grado_3": [
+          "Adecúa su texto al destinatario, el registro formal e informal, y el propósito comunicativo sobre temas variados, utilizando diversas fuentes con información opuesta oral o escrita, que provienen de diversos contextos socioculturales.",
+          "Escribe textos en torno a un tema. Ordena las ideas mediante el uso variado de conectores y referentes gramaticales.",
+          "Organiza su texto en párrafos en torno a diversos temas.",
+          "Utiliza diferentes recursos ortográficos y diversas expresiones formulaicas para que su texto sea claro.",
+          "Evalúa si el texto que escribe se adecúa, en lo que respecta tanto a su contenido como a su organización, a la situación comunicativa.",
+          "Evalúa los usos del lenguaje del texto al comparar y contrastar aspectos gramaticales y ortográficos, además de las características de los tipos textuales y géneros discursivos usados."
+        ],
+        "grado_4": [
+          "Adecúa su texto al destinatario, el registro formal e informal, y el propósito comunicativo sobre temas variados, utilizando estratégicamente diversas fuentes con información opuesta oral o escrita, que provienen de diversos contextos socioculturales.",
+          "Escribe textos en torno a un tema. Ordena las ideas mediante el uso variado de conectores y referentes gramaticales.",
+          "Organiza su texto en párrafos en torno a diversos temas.",
+          "Utiliza diferentes recursos ortográficos y diversas expresiones formulaicas para que su texto sea claro.",
+          "Evalúa si el texto que escribe se adecúa, en lo que respecta tanto a su contenido como a su organización, a la situación comunicativa.",
+          "Evalúa los usos del lenguaje del texto al comparar y contrastar aspectos gramaticales y ortográficos, además de las características de los tipos textuales y géneros discursivos usados."
+        ],
+        "grado_5": [
+          "Adecúa su texto al destinatario, el registro formal e informal, y el propósito comunicativo sobre temas variados, utilizando estratégicamente diversas fuentes con información opuesta oral o escrita, que provienen de diversos contextos socioculturales e históricos.",
+          "Escribe textos en torno a un tema. Ordena las ideas mediante el uso variado de conectores y referentes gramaticales.",
+          "Organiza su texto en párrafos en torno a diversos temas.",
+          "Utiliza diferentes recursos gramaticales y ortográficos para darle claridad y sentido al texto que escribe.",
+          "Evalúa si el texto que escribe se adecúa, en lo que respecta tanto a su contenido como a su organización, a la situación comunicativa.",
+          "Evalúa los usos del lenguaje del texto al comparar y contrastar aspectos gramaticales y ortográficos, además de las características de los tipos textuales y géneros discursivos usados."
+        ]
+      }
+    }
+  ]
+}

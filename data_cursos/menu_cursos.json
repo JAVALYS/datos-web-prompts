@@ -1,0 +1,13 @@
+[
+  { "id": "dpcc", "nombre": "Desarrollo Personal, Ciudadanía y Cívica", "archivo": "dpcc.json" },
+  { "id": "ciencias_sociales", "nombre": "Ciencias Sociales", "archivo": "ciencias_sociales.json" },
+  { "id": "educacion_fisica", "nombre": "Educación Física", "archivo": "educacion_fisica.json" },
+  { "id": "arte_cultura", "nombre": "Arte y Cultura", "archivo": "arte_cultura.json" },
+  { "id": "comunicacion", "nombre": "Comunicación", "archivo": "comunicacion.json" },
+  { "id": "castellano_segunda_lengua", "nombre": "Castellano como Segunda Lengua", "archivo": "castellano_segunda_lengua.json" },
+  { "id": "ingles_lengua_extranjera", "nombre": "Inglés como Lengua Extranjera", "archivo": "ingles_lengua_extranjera.json" },
+  { "id": "matematica", "nombre": "Matemática", "archivo": "matematica.json" },
+  { "id": "ciencia_tecnologia", "nombre": "Ciencia y Tecnología", "archivo": "ciencia_tecnologia.json" },
+  { "id": "educacion_trabajo", "nombre": "Educación para el Trabajo", "archivo": "educacion_trabajo.json" },
+  { "id": "educacion_religiosa", "nombre": "Educación Religiosa", "archivo": "educacion_religiosa.json" }
+]
