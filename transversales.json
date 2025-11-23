@@ -1,0 +1,239 @@
+{
+  "id": "transversales",
+  "area": "Transversales",
+  "competencias_transversales": [
+    {
+      "id": "desenvuelve_tic",
+      "nombre": "Se desenvuelve en los entornos virtuales generados por las TIC",
+      "descripcion": "Consiste en que el estudiante interprete, modifique y optimice entornos virtuales durante el desarrollo de actividades de aprendizaje y en prácticas sociales.",
+      "capacidades": [
+        "Personaliza entornos virtuales.",
+        "Gestiona información del entorno virtual.",
+        "Interactúa en entornos virtuales.",
+        "Crea objetos virtuales en diversos formatos."
+      ],
+      "desempenos": {
+        "grado_1": [
+          "Navega en diversos entornos virtuales recomendados adaptando funcionalidades básicas de acuerdo con sus necesidades de manera pertinente y responsable.",
+          "Clasifica información de diversas fuentes y entornos teniendo en cuenta la pertinencia y exactitud del contenido reconociendo los derechos de autor.",
+          "Registra datos mediante hoja de cálculo que le permita ordenar y secuenciar información relevante.",
+          "Participa en actividades interactivas y comunicativas de manera pertinente cuando expresa su identidad personal y sociocultural en entornos virtuales determinados.",
+          "Elabora proyectos escolares de su comunidad y localidad utilizando documentos y presentaciones digitales.",
+          "Desarrolla procedimientos lógicos y secuenciales para plantear soluciones a enunciados concretos con lenguajes de programación de código escrito bloques gráficos."
+        ],
+        "grado_2": [
+          "Organiza aplicaciones y materiales digitales según su utilidad y propósitos variados en un entorno virtual determinado para uso personal y necesidades educativas.",
+          "Contrasta información recopilada de diversas fuentes y entornos que respondan a consignas y necesidades de investigación, y resume la información en un documento con pertinencia.",
+          "Procesa datos mediante hojas de cálculo y base de datos cuando representa gráficamente información con criterios e indicaciones.",
+          "Participa en actividades colaborativas en comunidades y redes virtuales para intercambiar y compartir información de manera individual o en grupos de trabajo.",
+          "Elabora animaciones, videos y material interactivo en distintos formatos con creatividad e iniciativa.",
+          "Resuelve situaciones problemáticas mediante la programación de código con procedimientos y secuencias lógicas estructuradas planteando soluciones creativas."
+        ],
+        "grado_3": [
+          "Construye su perfil personal cuando accede a aplicaciones o plataformas de distintos propósitos, y se integra a comunidades colaborativas virtuales.",
+          "Establece búsquedas utilizando filtros en diferentes entornos virtuales que respondan a necesidades de información.",
+          "Clasifica y organiza la información obtenida de acuerdo con criterios establecidos y cita las fuentes en forma apropiada con eficiencia y efectividad.",
+          "Aplica funciones de cálculo cuando resuelve problemas matemáticos utilizando hojas de cálculo y base de datos.",
+          "Establece diálogos significativos y acordes con su edad en el desarrollo de un proyecto o identificación de un problema con sus pares en entornos virtuales compartidos.",
+          "Diseña objetos virtuales cuando representa ideas u otros elementos mediante el modelado de diseño.",
+          "Desarrolla secuencias lógicas o juegos digitales que simulen procesos u objetos que lleven a realizar tareas del mundo real con criterio y creatividad."
+        ],
+        "grado_4": [
+          "Accede a plataformas virtuales para desarrollar aprendizajes de diversas áreas curriculares seleccionando opciones, herramientas y aplicaciones, y realizando configuraciones de manera autónoma y responsable.",
+          "Emplea diversas fuentes con criterios de credibilidad, pertinencia y eficacia utilizando herramientas digitales de autor cuando realiza investigación sobre un tema específico.",
+          "Aplica diversas funciones de cálculo combinadas para solucionar situaciones diversas cuando sistematiza información en una base de datos y la representa gráficamente.",
+          "Comparte y evalúa sus proyectos escolares demostrando habilidades relacionadas con las áreas curriculares cuando plantea soluciones y propuestas creativas en las comunidades virtuales.",
+          "Documenta proyectos escolares cuando combina animaciones, videos y material interactivo en distintos formatos con creatividad e iniciativa.",
+          "Publica proyectos escolares utilizando información diversa según pautas de organización y citación combinando materiales digitales de diferentes formatos.",
+          "Programa secuencias lógicas estableciendo condiciones de decisión que presenten soluciones acordes con el problema planteado con eficacia."
+        ],
+        "grado_5": [
+          "Optimiza el desarrollo de proyectos cuando configura diversos entornos virtuales de software y hardware de acuerdo con determinadas necesidades cuando reconoce su identidad digital.",
+          "Administra bases de datos aplicando filtros, criterios de consultas y organización de información para mostrar reportes e informes que demuestren análisis y capacidad de síntesis.",
+          "Desarrolla proyectos productivos y de emprendimiento aplicando de manera idónea herramientas TIC que mejoren los resultados.",
+          "Elabora objetos virtuales con aplicaciones de modelado en 3D cuando desarrolla proyectos de innovación y emprendimiento.",
+          "Administra comunidades virtuales asumiendo distintos roles, estableciendo vínculos acordes con sus necesidades e intereses, y valorando el trabajo colaborativo.",
+          "Construye prototipos robóticos que permitan solucionar problemas de su entorno.",
+          "Publica y comparte, en diversos medios virtuales, proyectos o investigaciones, y genera actividades de colaboración y diálogo en distintas comunidades y redes virtuales."
+        ]
+      }
+    },
+    {
+      "id": "gestiona_autonomia",
+      "nombre": "Gestiona su aprendizaje de manera autónoma",
+      "descripcion": "El estudiante es consciente del proceso que realiza para aprender. Esto le permite participar de manera autónoma en el proceso de su aprendizaje, gestionar ordenada y sistemáticamente las acciones a realizar.",
+      "capacidades": [
+        "Define metas de aprendizaje.",
+        "Organiza acciones estratégicas para alcanzar sus metas de aprendizaje.",
+        "Monitorea y ajusta su desempeño durante el proceso de aprendizaje."
+      ],
+      "desempenos": {
+        "grado_1": [
+          "Determina metas de aprendizaje viables asociadas a sus conocimientos, estilos de aprendizaje, habilidades y actitudes para el logro de la tarea, formulándose preguntas de manera reflexiva.",
+          "Organiza un conjunto de estrategias y procedimientos en función del tiempo y de los recursos de que dispone para lograr las metas de aprendizaje de acuerdo con sus posibilidades.",
+          "Revisa la aplicación de estrategias, procedimientos, recursos y aportes de sus pares para realizar ajustes o cambios en sus acciones que permitan llegar a los resultados esperados.",
+          "Explica las acciones realizadas y los recursos movilizados en función de su pertinencia al logro de las metas de aprendizaje."
+        ],
+        "grado_2": [
+          "Determina metas de aprendizaje viables asociadas a sus potencialidades, conocimientos, estilos de aprendizaje, habilidades, limitaciones personales y actitudes para el logro de la tarea.",
+          "Organiza un conjunto de estrategias y acciones en función del tiempo y de los recursos de que dispone, para lo cual establece un orden y una prioridad para alcanzar las metas de aprendizaje.",
+          "Revisa los avances de las acciones propuestas, la elección de las estrategias y considera la opinión de sus pares para llegar a los resultados esperados.",
+          "Explica los resultados obtenidos de acuerdo con sus posibilidades y en función de su pertinencia para el logro de las metas de aprendizaje."
+        ],
+        "grado_3": [
+          "Determina metas de aprendizaje viables sobre la base de sus potencialidades, conocimientos, estilos de aprendizaje, habilidades y actitudes para el logro de la tarea simple o compleja.",
+          "Organiza un conjunto de acciones en función del tiempo y de los recursos de que dispone para lograr las metas de aprendizaje, para lo cual establece un orden y una prioridad en las acciones.",
+          "Revisa de manera permanente las estrategias, los avances de las acciones propuestas, su experiencia previa y la priorización de sus actividades para llegar a los resultados esperados.",
+          "Evalúa los resultados y los aportes que le brindan sus pares para el logro de las metas de aprendizaje."
+        ],
+        "grado_4": [
+          "Determina metas de aprendizaje viables sobre la base de sus experiencias asociadas, necesidades, prioridades de aprendizaje, habilidades y actitudes para el logro de la tarea simple o compleja.",
+          "Organiza un conjunto de acciones en función del tiempo y de los recursos de que dispone, para lo cual establece un orden y una prioridad que le permitan alcanzar la meta en el tiempo determinado.",
+          "Revisa de manera permanente la aplicación de estrategias, los avances de las acciones propuestas, su experiencia previa, y la secuencia y la priorización de actividades.",
+          "Evalúa los resultados y los aportes que le brindan los demás para decidir si realizará o no cambios en las estrategias para el éxito de la meta de aprendizaje."
+        ],
+        "grado_5": [
+          "Determina metas de aprendizaje viables sobre la base de sus potencialidades, conocimientos, estilos de aprendizaje, habilidades, limitaciones personales y actitudes para el logro de la tarea simple o compleja con destreza.",
+          "Organiza un conjunto de acciones en función del tiempo y de los recursos de que dispone, para lo cual establece una elevada precisión en el orden y prioridad.",
+          "Evalúa de manera permanente los avances de las acciones propuestas en relación con su eficacia y la eficiencia de las estrategias usadas para alcanzar la meta de aprendizaje.",
+          "Evalúa con precisión y rapidez los resultados y si los aportes que le brindan los demás le ayudarán a decidir si realizará o no cambios en las estrategias para el éxito de la meta de aprendizaje."
+        ]
+      }
+    }
+  ],
+  "enfoques_transversales": [
+    {
+      "id": "enfoque_derechos",
+      "nombre": "Enfoque de Derechos",
+      "descripcion": "Fomenta el reconocimiento de los derechos y deberes; asimismo, promueve el diálogo, la participación y la democracia.",
+      "valores": [
+        {
+          "nombre": "Conciencia de derechos",
+          "actitud": "Disposición a conocer, reconocer y valorar los derechos individuales y colectivos que tenemos las personas en el ámbito privado y público."
+        },
+        {
+          "nombre": "Libertad y responsabilidad",
+          "actitud": "Disposición a elegir de manera voluntaria y responsable la propia forma de actuar dentro de una sociedad."
+        },
+        {
+          "nombre": "Diálogo y concertación",
+          "actitud": "Disposición a conversar con otras personas, intercambiando ideas o afectos de modo alternativo para construir juntos una postura común."
+        }
+      ]
+    },
+    {
+      "id": "enfoque_inclusivo",
+      "nombre": "Enfoque Inclusivo o de Atención a la Diversidad",
+      "descripcion": "Busca reconocer y valorar a todas las personas por igual, con el fin de erradicar la exclusión, discriminación y desigualdad de oportunidades.",
+      "valores": [
+        {
+          "nombre": "Respeto por las diferencias",
+          "actitud": "Reconocimiento al valor inherente de cada persona y de sus derechos, por encima de cualquier diferencia."
+        },
+        {
+          "nombre": "Equidad en la enseñanza",
+          "actitud": "Disposición a enseñar ofreciendo a los estudiantes las condiciones y oportunidades que cada uno necesita para lograr los mismos resultados."
+        },
+        {
+          "nombre": "Confianza en la persona",
+          "actitud": "Disposición a depositar expectativas en una persona, creyendo sinceramente en su capacidad de superación y crecimiento por sobre cualquier circunstancia."
+        }
+      ]
+    },
+    {
+      "id": "enfoque_intercultural",
+      "nombre": "Enfoque Intercultural",
+      "descripcion": "Promueve el intercambio de ideas y experiencias entre las distintas formas de ver el mundo.",
+      "valores": [
+        {
+          "nombre": "Respeto a la identidad cultural",
+          "actitud": "Reconocimiento al valor de las diversas identidades culturales y relaciones de pertenencia de los estudiantes."
+        },
+        {
+          "nombre": "Justicia",
+          "actitud": "Disposición a actuar de manera justa, respetando el derecho de todos, exigiendo sus propios derechos y reconociendo derechos a quienes les corresponde."
+        },
+        {
+          "nombre": "Diálogo intercultural",
+          "actitud": "Fomento de una interacción equitativa entre diversas culturas, mediante el diálogo y el respeto mutuo."
+        }
+      ]
+    },
+    {
+      "id": "enfoque_igualdad_genero",
+      "nombre": "Enfoque Igualdad de Género",
+      "descripcion": "Busca brindar las mismas oportunidades a hombres y mujeres, eliminando situaciones que generan desigualdades.",
+      "valores": [
+        {
+          "nombre": "Igualdad y Dignidad",
+          "actitud": "Reconocimiento al valor inherente de cada persona, por encima de cualquier diferencia de género."
+        },
+        {
+          "nombre": "Justicia",
+          "actitud": "Disposición a actuar de modo que se dé a cada quien lo que le corresponde, en especial a quienes se ven perjudicados por las desigualdades de género."
+        },
+        {
+          "nombre": "Empatía",
+          "actitud": "Reconoce y valora las emociones y necesidades afectivas de los otros/as y muestra sensibilidad ante ellas al identificar situaciones de desigualdad de género."
+        }
+      ]
+    },
+    {
+      "id": "enfoque_ambiental",
+      "nombre": "Enfoque Ambiental",
+      "descripcion": "Busca formar personas con conciencia crítica y colectiva sobre la problemática ambiental y la condición del cambio climático.",
+      "valores": [
+        {
+          "nombre": "Solidaridad planetaria y equidad intergeneracional",
+          "actitud": "Disposición para colaborar con el bienestar y la calidad de vida de las generaciones presentes y futuras, así como con la naturaleza."
+        },
+        {
+          "nombre": "Justicia y solidaridad",
+          "actitud": "Disposición a evaluar los impactos y costos ambientales de las acciones y actividades cotidianas."
+        },
+        {
+          "nombre": "Respeto a toda forma de vida",
+          "actitud": "Aprecio, valoración y disposición para el cuidado a toda forma de vida sobre la Tierra desde una mirada sistémica y global."
+        }
+      ]
+    },
+    {
+      "id": "enfoque_bien_comun",
+      "nombre": "Enfoque Orientación al Bien Común",
+      "descripcion": "Busca que el conocimiento, los valores y la educación sean bienes que todos compartimos, promoviendo relaciones solidarias en comunidad.",
+      "valores": [
+        {
+          "nombre": "Equidad y justicia",
+          "actitud": "Disposición a reconocer a que ante situaciones de inicio diferentes, se requieren compensaciones a aquellos con mayores dificultades."
+        },
+        {
+          "nombre": "Solidaridad",
+          "actitud": "Disposición a apoyar incondicionalmente a personas en situaciones comprometidas o difíciles."
+        },
+        {
+          "nombre": "Empatía",
+          "actitud": "Identificación afectiva con los sentimientos del otro y disposición para apoyar y comprender sus circunstancias."
+        },
+        {
+          "nombre": "Responsabilidad",
+          "actitud": "Disposición a valorar y proteger los bienes comunes y compartidos de un colectivo."
+        }
+      ]
+    },
+    {
+      "id": "enfoque_excelencia",
+      "nombre": "Enfoque Búsqueda de la Excelencia",
+      "descripcion": "Incentiva a los estudiantes a dar lo mejor de sí mismos para alcanzar sus metas y contribuir con su comunidad.",
+      "valores": [
+        {
+          "nombre": "Flexibilidad y apertura",
+          "actitud": "Disposición para adaptarse a los cambios, modificando si fuera necesario la propia conducta para alcanzar determinados objetivos."
+        },
+        {
+          "nombre": "Superación personal",
+          "actitud": "Disposición a adquirir cualidades que mejorarán el propio desempeño y aumentarán el estado de satisfacción consigo mismo y con las circunstancias."
+        }
+      ]
+    }
+  ]
+}
