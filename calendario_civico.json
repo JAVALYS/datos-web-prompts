@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "descripcion": "Lista oficial del Calendario Cívico Escolar Peruano ordenado cronológicamente para menús desplegables.",
+    "fuente": "MINEDU"
+  },
+  "opciones": [
+    {
+      "id": "0",
+      "label": "-- Sin motivo cívico (Sesión Regular) --",
+      "texto_prompt": ""
+    },
+    {
+      "id": "mar_08",
+      "label": "08 de Marzo - Día Internacional de la Mujer",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se desarrolla en el marco del Día Internacional de la Mujer."
+    },
+    {
+      "id": "mar_14",
+      "label": "14 de Marzo - Nacimiento de Albert Einstein",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión conmemora el nacimiento de Albert Einstein."
+    },
+    {
+      "id": "mar_22",
+      "label": "22 de Marzo - Día Mundial del Agua",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se contextualiza en el Día Mundial del Agua."
+    },
+    {
+      "id": "mar_26",
+      "label": "Fines de Marzo - La Hora del Planeta",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se enmarca en las actividades de La Hora del Planeta."
+    },
+    {
+      "id": "abr_01",
+      "label": "01 de Abril - Día de la Educación",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión celebra el Día de la Educación."
+    },
+    {
+      "id": "abr_07",
+      "label": "07 de Abril - Día Mundial de la Salud",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se desarrolla en el marco del Día Mundial de la Salud."
+    },
+    {
+      "id": "abr_2dom",
+      "label": "2.º Domingo de Abril - Día del Niño Peruano",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión celebra el Día del Niño Peruano."
+    },
+    {
+      "id": "abr_14",
+      "label": "14 de Abril - Día de las Américas",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión conmemora el Día de las Américas."
+    },
+    {
+      "id": "abr_22",
+      "label": "22 de Abril - Día de la Tierra",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se centra en la celebración del Día de la Tierra."
+    },
+    {
+      "id": "abr_23",
+      "label": "23 de Abril - Día del Idioma Español",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión celebra el Día del Idioma Español."
+    },
+    {
+      "id": "may_01",
+      "label": "01 de Mayo - Día del Trabajo",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión conmemora el Día Internacional del Trabajo."
+    },
+    {
+      "id": "may_2dom",
+      "label": "2.º Domingo de Mayo - Día de la Madre",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se desarrolla en el marco de la celebración del Día de la Madre."
+    },
+    {
+      "id": "may_15",
+      "label": "15 de Mayo - Día Internacional de la Familia",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión celebra el Día Internacional de la Familia."
+    },
+    {
+      "id": "may_25",
+      "label": "25 de Mayo - Día de la Educación Inicial",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión conmemora el Día de la Educación Inicial."
+    },
+    {
+      "id": "may_30",
+      "label": "30 de Mayo - Día Nacional de la Papa",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión resalta el Día Nacional de la Papa."
+    },
+    {
+      "id": "may_31",
+      "label": "31 de Mayo - Día Mundial Sin Tabaco / Reflexión Desastres Naturales",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se enmarca en el Día Mundial Sin Tabaco y la Reflexión sobre Desastres Naturales."
+    },
+    {
+      "id": "jun_05",
+      "label": "05 de Junio - Día Mundial del Medio Ambiente",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión celebra el Día Mundial del Medio Ambiente."
+    },
+    {
+      "id": "jun_07",
+      "label": "07 de Junio - Día de la Bandera",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión conmemora el Día de la Bandera y la Batalla de Arica."
+    },
+    {
+      "id": "jun_3dom",
+      "label": "3.er Domingo de Junio - Día del Padre",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se desarrolla en el marco de la celebración del Día del Padre."
+    },
+    {
+      "id": "jun_24",
+      "label": "24 de Junio - Día del Campesino",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión rinde homenaje al Día del Campesino."
+    },
+    {
+      "id": "jun_26",
+      "label": "26 de Junio - Día Intl. contra el Tráfico Ilícito de Drogas",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión aborda el Día Internacional de la lucha contra el uso indebido y el tráfico ilícito de drogas."
+    },
+    {
+      "id": "jun_29",
+      "label": "29 de Junio - Día de San Pedro y San Pablo",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se enmarca en la festividad de San Pedro y San Pablo."
+    },
+    {
+      "id": "jul_06",
+      "label": "06 de Julio - Día del Maestro",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión celebra el Día del Maestro."
+    },
+    {
+      "id": "jul_28",
+      "label": "28 de Julio - Proclamación de la Independencia del Perú",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se desarrolla en el marco de las Fiestas Patrias y la Proclamación de la Independencia."
+    },
+    {
+      "id": "ago_06",
+      "label": "06 de Agosto - Batalla de Junín",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión conmemora la Batalla de Junín."
+    },
+    {
+      "id": "ago_22",
+      "label": "22 de Agosto - Día Mundial del Folclore",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión celebra el Día Mundial del Folclore."
+    },
+    {
+      "id": "ago_26",
+      "label": "26 de Agosto - Día del Adulto Mayor",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión rinde homenaje al Día del Adulto Mayor."
+    },
+    {
+      "id": "ago_30",
+      "label": "30 de Agosto - Santa Rosa de Lima",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se enmarca en la festividad de Santa Rosa de Lima."
+    },
+    {
+      "id": "set_01",
+      "label": "1.ª Semana de Setiembre - Semana de la Educación Vial",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se desarrolla durante la Semana de la Educación Vial."
+    },
+    {
+      "id": "set_2dom",
+      "label": "2.º Domingo de Setiembre - Día de la Familia",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión celebra el Día de la Familia."
+    },
+    {
+      "id": "set_23",
+      "label": "23 de Setiembre - Día de la Primavera y la Juventud",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión celebra el Día de la Primavera y la Juventud."
+    },
+    {
+      "id": "set_24",
+      "label": "24 de Setiembre - Semana Nacional de los Derechos Humanos",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se enmarca en la Semana Nacional de los Derechos Humanos."
+    },
+    {
+      "id": "oct_08",
+      "label": "08 de Octubre - Combate de Angamos / Educación Física",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión conmemora el Combate de Angamos y el Día de la Educación Física."
+    },
+    {
+      "id": "oct_16",
+      "label": "16 de Octubre - Día Mundial de la Alimentación / Educación Inclusiva",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se desarrolla en el marco del Día Mundial de la Alimentación y la Educación Inclusiva."
+    },
+    {
+      "id": "oct_21",
+      "label": "21 de Octubre - Día Nacional del Ahorro de Energía",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión promueve el Día Nacional del Ahorro de Energía."
+    },
+    {
+      "id": "oct_31",
+      "label": "31 de Octubre - Día de la Canción Criolla",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión celebra el Día de la Canción Criolla."
+    },
+    {
+      "id": "nov_01",
+      "label": "01 de Noviembre - Día de Todos los Santos",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se contextualiza en el Día de Todos los Santos."
+    },
+    {
+      "id": "nov_10",
+      "label": "10 de Noviembre - Semana de la Biblioteca Escolar",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se desarrolla en la Semana de la Biblioteca Escolar."
+    },
+    {
+      "id": "nov_20",
+      "label": "20 de Noviembre - Día de los Derechos del Niño",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión conmemora la Declaración Universal de los Derechos del Niño."
+    },
+    {
+      "id": "nov_27",
+      "label": "27 de Noviembre - Batalla de Tarapacá",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión recuerda la Batalla de Tarapacá."
+    },
+    {
+      "id": "dic_01",
+      "label": "01 de Diciembre - Día Mundial de la Lucha contra el SIDA",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión se enmarca en el Día Mundial de la Lucha contra el SIDA."
+    },
+    {
+      "id": "dic_09",
+      "label": "09 de Diciembre - Batalla de Ayacucho",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión conmemora la Batalla de Ayacucho."
+    },
+    {
+      "id": "dic_10",
+      "label": "10 de Diciembre - Declaración Universal de los Derechos Humanos",
+      "texto_prompt": "CONTEXTO TEMPORAL: La sesión celebra la Declaración Universal de los Derechos Humanos."
+    }
+  ]
+}
